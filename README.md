@@ -1,5 +1,3 @@
-# 2026-pcb-design-challenge
-
 # UCL x KCL x Oxford x Imperial x Cambridge x Edinburgh: 2026 PCB Challenge Submission
 
 [![KiCad Version](https://img.shields.io/badge/KiCad-v10.0-blue.svg)](https://kicad.org/)
